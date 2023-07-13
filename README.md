@@ -1,13 +1,12 @@
-## Getting starting
-This repository includes files with plain HTML CSS AND JAVASCRIPt
-## Project Name
+
+## Updated-portfolio
 Ngufor Emmanuella's Portfolio.
 
 ## Description of project.
 As I embarked on creating my portfolio website, I reached my initial milestone by employing a design template sourced from Figma. Through this website, I effectively exhibited my proficiencies in HTML, CSS, and JavaScript.
 
 ## Project web demo link.
-[Live Link](https://fluffy-torte-f6e2ae.netlify.app//)
+[Live Link](https://ngufor-emmanuella.github.io/updated-portfolio/)
 
 ## Built With
 HTML, CSS and JavaScript.
