@@ -66,7 +66,7 @@ const modalInformation = {
   button1:
     'See Live  <a href ="https://resonant-raindrop-6d1bf0.netlify.app/"><img src="./images/air-air" alt="polluion-ap"></a>',
   button2:
-    'See Source <a href ="https://resonant-raindrop-6d1bf0.netlify.app/"><img src="./images/Vectorhub.png"alt="Budget-ap"></a>',
+    'See Source <a href ="https://github.com/Ngufor-emmanuella?tab=repositories"><img src="./images/Vectorhub.png"alt="Budget-ap"></a>',
   li: "html",
   li2: "Bootstrap",
   li3: "Ruby on rails",

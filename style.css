@@ -418,7 +418,7 @@ strong {
 }
 
 .header-pro:nth-child(3) {
-  background: linear-gradient(179.4deg, rgba(38, 38, 38, 0) 0.81%, rgba(38, 38, 38, 0.9) 84.03%), url(./images/food-proj.png);
+  background: linear-gradient(179.4deg, rgba(38, 38, 38, 0) 0.81%, rgba(38, 38, 38, 0.9) 84.03%), url(./images/meat.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 375px;
