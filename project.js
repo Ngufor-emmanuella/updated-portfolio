@@ -32,7 +32,7 @@ const projects = [
       description: 'Task creation, reading, updating, and deletion are available to users, as well as the ability to view and delete items.',
       featuredImage: 'images/shopping.png',
       technologies: ['html','AngularJS', 'JavaScripts'],
-      button2: '(https://github.com/Ngufor-emmanuella/test-project.git',
+      button2: 'https://github.com/Ngufor-emmanuella/test-project.git',
       url: 'https://superlative-tarsier-283b51.netlify.app/',
     },
     {
