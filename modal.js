@@ -64,9 +64,9 @@ const modalInformation = {
     "This app offers an easy way to access the latest polluted country in Africa and search by counry name, making it a valuable resource for staying informed about africa.",
   imageSrc: "",
   button1:
-    'See Live  <a href ="https://resonant-raindrop-6d1bf0.netlify.app/"><img src="./images/air-air" alt="polluion-ap"></a>',
+    'See Live  <a href ="https://resonant-raindrop-6d1bf0.netlify.app/" target="_blank"><img src="./images/air-air" alt="polluion-ap"></a>',
   button2:
-    'See Source <a href ="https://github.com/Ngufor-emmanuella?tab=repositories"><img src="./images/Vectorhub.png"alt="Budget-ap"></a>',
+    'See Source <a href ="https://github.com/Ngufor-emmanuella/react-redux-capstone-proj/blob/develope/README.md" target="_blank"><img src="./images/Vectorhub.png"alt="Budget-ap"></a>',
   li: "html",
   li2: "Bootstrap",
   li3: "Ruby on rails",

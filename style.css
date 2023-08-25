@@ -58,6 +58,19 @@
   animation: pulse 5s ease-in-out infinite;
 }
 
+.logo {
+  animation: rotate 4s infinite;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(15deg);
+  }
+}
+
 .ambuger {
   display: block;
   cursor: pointer;
@@ -193,6 +206,19 @@
   align-items: center;
   color: #091e42;
   margin-bottom: 30px;
+}
+
+.second-tittle {
+  animation: rotate 4s infinite;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(15deg);
+  }
 }
 
 .post {
@@ -1453,6 +1479,19 @@ strong {
     color: #fff;
   }
 
+  .logo {
+    animation: rotate 4s infinite;
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(15deg);
+    }
+  }
+
   .first-sec {
     background-color: #1c1a19;
     min-height: 602px;
@@ -1504,6 +1543,19 @@ strong {
 
   .second-tittle {
     margin-bottom: 0;
+  }
+
+  .second-tittle {
+    animation: rotate 4s infinite;
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(15deg);
+    }
   }
 
   .line2 {
